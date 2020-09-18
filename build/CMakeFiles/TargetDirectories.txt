@@ -1,0 +1,3 @@
+/Users/shiyaow/Documents/Summer2020/GAMES101/hw7/src/build/CMakeFiles/rebuild_cache.dir
+/Users/shiyaow/Documents/Summer2020/GAMES101/hw7/src/build/CMakeFiles/edit_cache.dir
+/Users/shiyaow/Documents/Summer2020/GAMES101/hw7/src/build/CMakeFiles/RayTracing.dir

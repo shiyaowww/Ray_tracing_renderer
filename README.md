@@ -2,7 +2,7 @@
 
 
 <div align = left>
-  <img src = '/blob/master/pictures/binary.png' width = 500 />
+  <img src = "https://github.com/shiyaowww/Ray_tracing_renderer/blob/master/pictures/binary.png" width = 500 />
 </div>
   
 
